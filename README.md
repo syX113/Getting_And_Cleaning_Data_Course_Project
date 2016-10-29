@@ -1,6 +1,6 @@
-### Getting and Cleaning Data - Course Project
+# Getting and Cleaning Data - Course Project
 
-## The R script "run_analysis.R" does the following:
+### The R script "run_analysis.R" does the following:
 
 * Download the dataset (if it's not already existing in the WD)
 * Load the activity and feature info
