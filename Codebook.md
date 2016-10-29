@@ -1,17 +1,17 @@
-Code Book
+### Code Book
 
 Data fields in tidy_data.txt.
 
-Identifiers
+## Identifiers
 
-subject - ID of the test subject
-activity - The type of activity performed when the corresponding measurements were taken
+* subject - ID of the test subject
+* activity - The type of activity performed when the corresponding measurements were taken
 
-Measurements
+## Measurements
 
-tBodyAccMeanX
-tBodyAccMeanY
-tBodyAccMeanZ
+* tBodyAccMeanX
+*tBodyAccMeanY
+ tBodyAccMeanZ
 tBodyAccStdX
 tBodyAccStdY
 tBodyAccStdZ
