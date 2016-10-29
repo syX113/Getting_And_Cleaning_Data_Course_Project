@@ -2,7 +2,7 @@ Getting and Cleaning Data - Course Project
 
 The R script "run_analysis.R" does the following:
 
-1) Download the dataset (if it's not already existing in the WD)
+* Download the dataset (if it's not already existing in the WD)
 2) Load the activity and feature info
 3) Import both datasets and keeps only these columns with a mean or SD
 4) Loads the activity and subject data for each dataset, and merges those columns with the dataset
